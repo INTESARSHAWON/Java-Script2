@@ -54,3 +54,15 @@ i**=4; //to the power 4
 console.log("i=",i);//256
 j%=8;
 console.log("j=",j);//0
+
+
+//comparison operator (boolean a result dey)
+let u=10;
+let v=8;
+
+console.log("u==v", u==v); //False
+console.log("u!=v", u!=v); //True
+console.log("u>v", u>v); //True
+console.log("u<v", u<v); //False
+console.log("u>=v", u>=v); //True
+console.log("u<=v", u<=v); //False
