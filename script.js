@@ -66,3 +66,9 @@ console.log("u>v", u>v); //True
 console.log("u<v", u<v); //False
 console.log("u>=v", u>=v); //True
 console.log("u<=v", u<=v); //False
+
+
+let e=5;
+let f="5"; // " " er moddhe jeta thake seta string.== dile " " eta number dhore count kore. ejonno === dite hoy 
+console.log("e===f",e===f); //False
+console.log("e!==f",e!==f); //True
