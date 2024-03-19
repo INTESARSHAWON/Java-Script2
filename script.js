@@ -30,3 +30,27 @@ console.log ("--c=", --c); //3 hoye geche
 
 d--; //6 e ace
 console.log ("d--=", d--); //5 hoye geche
+
+
+//assignment operator
+
+let m=10;
+let n=6;
+let p=7;
+let q=3;
+let i=4;
+let j=8;
+
+
+m+=5;
+console.log("m=",m);//15
+n-=3;
+console.log("n=",n);//3
+p*=4;
+console.log("p=",p);//28
+q/=3;
+console.log("q=",q);//1
+i**=4; //to the power 4
+console.log("i=",i);//256
+j%=8;
+console.log("j=",j);//0
